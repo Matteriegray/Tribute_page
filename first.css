@@ -7,7 +7,7 @@
 @media screen and (max-width:400px) {
 
    body{
-     background-image: url("/navy.jpg") ;
+     background-image: url("https://img.freepik.com/free-vector/textured-background-design_1117-109.jpg?w=740&t=st=1705129635~exp=1705130235~hmac=cdcd5b4b9c8a9d56fd81a49e8ef3fac61ce7fe59bc645f923ff37a93b4d7df15") ;
      background-color: #08083d ;
    }
 
@@ -26,7 +26,7 @@
     width: 55px;
     height: 50px;
     float: right;
-    background-image: url("/apj.jpg");
+    background-image: url("https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg");
     background-size: 50px 50px;
     margin-top: -52px;
    }
@@ -59,7 +59,7 @@
 
     body{
         /* background-color: blue;*/
-         background-image:linear-gradient(rgba(15, 15, 193, 0.5), rgba(87, 10, 91, 0.151)),url("/apj.jpg");
+         background-image:linear-gradient(rgba(15, 15, 193, 0.5), rgba(87, 10, 91, 0.151)),url("https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg");
          background-position: center;
          color:black;
        
@@ -107,7 +107,7 @@
      #him{
          height: 100px;
          width: 120px;
-         background-image:url("/apj.jpg");
+         background-image:url("https://cdn.britannica.com/48/222648-050-F4D0A2D8/President-of-India-A-P-J-Abdul-Kalam-2007.jpg");
          background-position: cover;
          background-size: 100px 120px;
      
@@ -118,7 +118,7 @@
      #air{
          height: 100px;
          width: 120px;
-         background-image: url("/air.jpg");
+         background-image: url("https://media.licdn.com/dms/image/D4D12AQGigEEP7kvn0g/article-cover_image-shrink_720_1280/0/1684673835830?e=2147483647&v=beta&t=FYN7WS2gH-ILSSxEu5YuS6zKwh78EX0BJlDBZzttl5U");
          background-position:cover;
          background-size: 100px 120px;
      }
@@ -126,7 +126,7 @@
      #missile{
          height: 100px;
          width: 120px;
-         background-image: url("/missile.jpg");
+         background-image: url("https://thehillstimes.in/wp-content/uploads/2022/08/4.jpg");
          background-position: auto;
          background-size: 100px 120px;
      
@@ -136,7 +136,7 @@
      #std{
          height: 100px;
          width: 120px;
-         background-image: url("/std.jpg");
+         background-image: url("https://cdn.educba.com/academy/wp-content/uploads/2023/12/APJ-Abdul-Kalam.jpg");
          background-position: center;
          background-size: 100px 120px;
      
@@ -146,7 +146,7 @@
      #bharat{
          height:100px;
          width:120px;
-         background-image:url("/bharat.jpg");
+         background-image:url("https://pbs.twimg.com/media/CLPNFMpUMAA_eiO?format=jpg&name=4096x4096");
          background-position: center;
          background-size: 100px 120px;
      }
@@ -154,7 +154,7 @@
      #rocket{
          height:100px;
          width:120px;
-         background-image:url("/rocket.jpg");
+         background-image:url("https://en-media.thebetterindia.com/uploads/2019/08/isro380.jpg");
          background-position: center;
          background-size: 100px 120px;
      }
@@ -163,7 +163,7 @@
      #rocky{
          height:100px;
          width:120px;
-         background-image:url("/rocky.jpg");
+         background-image:url("https://nss.org/wp-content/uploads/isdc-kalam-nss-award.jpg");
          background-position: center;
          background-size: 100px 120px;
      }
@@ -171,7 +171,7 @@
      #abdulla{
          height:100px;
          width:120px;
-         background-image:url("/abdulla.jpg");
+         background-image:url("https://mpower360.files.wordpress.com/2015/07/abdul_kalam04-e1438077015706.jpg");
          background-position: center;
          background-size: 100px 120px;
      }
@@ -179,7 +179,7 @@
      #avul{
          height:100px;
          width:120px;
-         background-image:url("/avul.jpg");
+         background-image:url("https://www.iflkuwait.com/images/Frontlinersarticles/AbdulKalam/Kilo01.jpg");
          background-position: center;
          background-size: 100px 120px;
      }
@@ -187,7 +187,7 @@
      #avul2{
          height:100px;
          width:120px;
-         background-image:url("/avul2.jpg");
+         background-image:url("https://images.thequint.com/thequint%2F2019-11%2Fdce0fe8c-47f8-4250-92f9-21f660364187%2Fhero_image_1.jpg?rect=0%2C0%2C2000%2C1125");
          background-position: center;
          background-size: 100px 120px;
      }
